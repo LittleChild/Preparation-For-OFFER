@@ -15,6 +15,7 @@
     - layer norm：在每个样本所有的channel上进行norm，归一化的维度为[C，H，W]
     - instance norm：在每个样本每个channel上进行norm，归一化的维度为[H，W]
     - group norm：将channel方向分group，然后每个group内做归一化，算(C//G)*H*W的均值，GN的极端情况就是LN和I N
+
 ![image](https://user-images.githubusercontent.com/35659023/125475672-f728ecd2-8d44-4e19-a779-84660a7a17af.png)
 
 
