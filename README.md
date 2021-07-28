@@ -40,10 +40,10 @@ shopee
       - F：卷积核大小
       - P：填充值的大小
       - S：步长大小
-- 感受野的计算：
-  - 定义：卷积神经网络每一层输出的特征图（feature map）上的像素点在原始图像上映射的区域大小。
-  - 第i层在第i-1层上的感受野公式：
-  - ![image](https://user-images.githubusercontent.com/35659023/127335073-39f9d606-a800-4638-9b0b-e207479072c9.png)
+  - 感受野的计算：
+    - 定义：卷积神经网络每一层输出的特征图（feature map）上的像素点在原始图像上映射的区域大小。
+    - 第i层在第i-1层上的感受野公式：
+    - ![image](https://user-images.githubusercontent.com/35659023/127335073-39f9d606-a800-4638-9b0b-e207479072c9.png)
 
 
 
