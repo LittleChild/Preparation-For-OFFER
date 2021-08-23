@@ -31,7 +31,9 @@ shopee
 
 
 百度
-·无人驾驶技术部，计算机视觉算法研发工程师
+- 无人驾驶技术部，计算机视觉算法研发工程师
+- 一面：
+
 
 爱奇艺
 一面：
@@ -49,13 +51,22 @@ shopee
  - 
 
 商汤
- - 
-杳无音信
+ - 22领航员-定位与导航算法工程师：
+ - 一面
 
 
 ## 正式批
 网易互娱
  - 笔试：三道编程题，只写出了第一个，判断污染的身份证号码有多少种可能。
+
+网易云音乐
+- 推荐算法
+- 笔试：4道编程100分+1道问答20分
+  - 1. 字符串 ：80%
+  - 2. [螺旋打印，旋转数组，内内向外](https://blog.csdn.net/liyf__88/article/details/72580608?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control)：100%
+  - 3. [假定一种编码的编码范围是a-y的25个字母，形成一个数组如下： a,aa,aaa,aaaa,aaab,aaac,...yyyy 其中a的Index为0，aa的Index为1，aaa为2，以此类推。](https://blog.csdn.net/weixin_42267309/article/details/99739569)：100%
+  - 4. [一个字符串的前缀是从第一个字符开始的连续若干个字符，例如”abaab”共有5个前缀，分别是a, ab, aba, abaa, abaab。我们希望知道一个N位字符串S的前缀是否具有循环节。](https://blog.csdn.net/Mr_Kingk/article/details/105103084)：100%
+  - 问答：说一下Transformer的网络结构，对在图像的应有有什么看法。
 
 网易雷火
  - 游戏AI-人工智能算法工程师（虚拟交互/计算机视觉方向）
@@ -68,6 +79,8 @@ shopee
 
 
 虹软科技
+- 笔试：选择、问答、编程，问答选做，比较硬核，有网络公式要写，代码2道写了1道，没有运行结果
+
 
 米哈游
  - 图像算法岗位
@@ -82,7 +95,7 @@ CSIG交通与出行
 
 拼多多
  - 测评、笔试
-
+ - 4道算法，，，都不会，8%，0，20%，0；
 
 ----
 ### 问题搜集 & 知识补充
