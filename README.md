@@ -65,7 +65,7 @@ shopee
 
 商汤
  - 22领航员-MIG-定位与地图算法工程师：
- - 一面
+ - 一面：初始化过程，4个解怎么选，Ax=b有解的条件，如何如何加速特征匹配的，除了BOW，，，算法题，零矩阵，写出来了，https://leetcode-cn.com/problems/zero-matrix-lcci/
 
 
 ## 正式批
