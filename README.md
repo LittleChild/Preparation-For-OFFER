@@ -143,5 +143,3 @@ CSIG交通与出行
 ----
 ### 机会关注：
 
-![image](https://user-images.githubusercontent.com/35659023/125221928-9cc8b500-e2fb-11eb-9b87-c749bd274620.png)
-
