@@ -220,6 +220,7 @@ oppo
 - HR面：正常的HR面，问一些自己的过往经历，最大的挑战，焦虑的时候怎么做啥的
 - 等待吧，不知道什么情况。
 ![image](https://user-images.githubusercontent.com/35659023/137058689-ded11ccd-4ecb-42c7-8306-2872a25b188b.png)
+![image](https://user-images.githubusercontent.com/35659023/137283589-700ba131-a3a8-43e7-979f-90f6caafded4.png)
 
 
 
